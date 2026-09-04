@@ -1,0 +1,17 @@
+.venv/
+.venv-imported-broken/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.matplotlib/
+.env
+mlruns/
+mlartifacts/
+mlflow.db
+IMDB Dataset.csv
+docs/superpowers/
+previous_run_*/
+python-*-amd64.exe
+python-install.log
+*-smoke.*.log

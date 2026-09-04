@@ -1,0 +1,9 @@
+{
+  "run_id": "57a46bd6c63a4a2db62e3cdd6583adc9",
+  "run_name": "MLP-02",
+  "model_uri": "models:/m-3792d61d143a4e808a99ab37e3d373f2",
+  "accuracy": 0.9038015528889786,
+  "precision": 0.88176124501803,
+  "recall": 0.9334940727345791,
+  "f1": 0.9068904938512591
+}
