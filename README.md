@@ -2,6 +2,13 @@
 
 Projeto acadêmico de IA & ML para classificar o sentimento de avaliações do **IMDB Dataset of 50K Movie Reviews**, sem TensorFlow.
 
+# Integrantes
+Italo Caliari Silva - RM554758
+Júlio César Ruiz Zequin - RM554676
+Danilo Gronski Wendler - RM 556602
+Pedro Henrique Muzel Santos - RM 555983
+Vitor Montemor Ismael - RM 556027
+
 ## Arquitetura
 
 `review bruta -> limpeza de HTML -> TF-IDF -> MLPClassifier -> positive/negative`
